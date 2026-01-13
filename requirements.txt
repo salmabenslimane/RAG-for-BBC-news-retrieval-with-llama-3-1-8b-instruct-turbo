@@ -1,2 +1,14 @@
 dlai_grader
 python-dotenv
+kagglehub
+sentence-transformers==2.2.2
+huggingface_hub==0.15.1
+numpy
+pandas
+scikit-learn
+joblib
+python-dateutil
+requests
+ipywidgets
+ipython
+torch
