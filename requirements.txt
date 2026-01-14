@@ -12,3 +12,4 @@ requests
 ipywidgets
 ipython
 torch
+dotenv
